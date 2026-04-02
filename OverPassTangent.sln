@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoDmensionTangentViewer", "TwoDmensionTangentViewer\TwoDmensionTangentViewer.vcxproj", "{46A96FA5-84E4-4053-B395-7992B122DFFA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF} = {40B97B47-9B3B-434D-B881-B5CEF718AAAF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chaos_Trigonometric_test", "Chaos_Trigonometric_test\Chaos_Trigonometric_test.vcxproj", "{40B97B47-9B3B-434D-B881-B5CEF718AAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Debug|x64.ActiveCfg = Debug|x64
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Debug|x64.Build.0 = Debug|x64
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Debug|x86.Build.0 = Debug|Win32
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Release|x64.ActiveCfg = Release|x64
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Release|x64.Build.0 = Release|x64
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Release|x86.ActiveCfg = Release|Win32
+		{46A96FA5-84E4-4053-B395-7992B122DFFA}.Release|x86.Build.0 = Release|Win32
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Debug|x64.ActiveCfg = Debug|x64
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Debug|x64.Build.0 = Debug|x64
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Debug|x86.Build.0 = Debug|Win32
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Release|x64.ActiveCfg = Release|x64
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Release|x64.Build.0 = Release|x64
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Release|x86.ActiveCfg = Release|Win32
+		{40B97B47-9B3B-434D-B881-B5CEF718AAAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC436C48-C6AA-4C71-8BFB-D8977FD9A137}
+	EndGlobalSection
+EndGlobal
